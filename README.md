@@ -1,4 +1,4 @@
-My Awesome Book
+Covisint UI Framework
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is designed to help UI developers to use the Covisint UI framework
