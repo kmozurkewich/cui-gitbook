@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Background
+   * [Background](background.md)
    * Features
    * System Requirement
 * [Chapter 1: Rerence Modules](chapter1.md)
