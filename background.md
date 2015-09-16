@@ -1,4 +1,4 @@
-# Background
+## Background
 The UI Framework connects the end user to Covisint's "Platform as a service (PAAS)" product. The usage flow looks like this:
 ![](ProjectOverview.png)
 End user make a request or action on the web browser (Web). The action could be done via one of the many popular front-end technologies such as Angular.
