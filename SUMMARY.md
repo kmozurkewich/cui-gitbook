@@ -8,4 +8,5 @@
 * Chapter 2: Managed mode (Default mode)
 * Chapter 3: Exchange mode
 * Chapter 4: Consumer mode
+* Chapter 5: Other Topics
 
