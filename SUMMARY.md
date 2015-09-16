@@ -5,4 +5,5 @@
    * Features
    * System Requirement
 * [Chapter 1: Rerence Modules](chapter1.md)
+* Chapter 2: Managed mode (Default mode)
 
