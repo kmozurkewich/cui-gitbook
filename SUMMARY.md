@@ -8,5 +8,5 @@
 * Chapter 2: B2B Mode
 * Chapter 3: B2P
 * Chapter 4: B2P
-* Chapter 5: Other Topics
+* Chapter 5: B2E
 
