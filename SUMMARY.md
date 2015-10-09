@@ -5,4 +5,5 @@
    * [Features](features.md)
    * [System Requirement](system_requirement.md)
 * [Chapter 1: Rerence Modules](chapter1.md)
+* Chapter 2: B2P Mode
 
