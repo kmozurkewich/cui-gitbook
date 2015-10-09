@@ -6,7 +6,6 @@
    * [System Requirement](system_requirement.md)
 * [Chapter 1: Rerence Modules](chapter1.md)
 * [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
-* Chapter 3: B2P Mode
 * Chapter 4: B2P Mode
 * Chapter 5: B2E Mode
 
