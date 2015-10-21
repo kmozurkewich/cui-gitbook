@@ -6,5 +6,6 @@
    * [System Requirement](system_requirement.md)
 * [Chapter 1: Rerence Modules](chapter1.md)
    * Step Wizard
+   * Authorization
 * [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
 
