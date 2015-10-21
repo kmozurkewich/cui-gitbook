@@ -7,6 +7,6 @@
 * [Chapter 1: Component Library](chapter1.md)
    * [cui-wizard](cui-wizard.md)
    * [cui-authorization](cui-authorization.md)
-   * [Styleguide](styleguide.md)
+   * [cui-styleguide](cui-styleguide.md)
 * [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
 
