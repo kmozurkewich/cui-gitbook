@@ -58,6 +58,7 @@ TODO - element blocking
 
 #### Redirecting
 There are 2 types of redirection:
+
 1. The user is not logged in (the user object is undefined or empty), in this case the module will redirect him to the `login` state.
 2. The user does not have permission to view the page (no entitlement), in this case he gets redirected to the `notAuthorized` state.
 
