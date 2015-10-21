@@ -24,10 +24,10 @@ Cui-authorization is a module that depends on [ui-router](https://github.com/ang
           loginRequired: true
         }
       })
-      .state('login',{
+      .state('login',{ //required, see below
         url: '/login'
       })
-      .state('notAuthorized',{
+      .state('notAuthorized',{ //required, see below
         url: '/notAuthorized'
       })
       .state('adminOnly',{
