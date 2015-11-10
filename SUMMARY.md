@@ -10,5 +10,6 @@
    * [cui-icons](cui-icons.md)
    * [cui-styleguide](cui-styleguide.md)
    * [cui-wizard](cui-wizard.md)
+   * cui-messaging
 * [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
 
