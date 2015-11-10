@@ -8,8 +8,8 @@
    * [cui-authorization](cui-authorization.md)
    * [cui-i18n](cui-i18n.md)
    * [cui-icons](cui-icons.md)
+   * cui-messaging
    * [cui-styleguide](cui-styleguide.md)
    * [cui-wizard](cui-wizard.md)
-   * cui-messaging
 * [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
 
