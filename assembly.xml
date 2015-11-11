@@ -13,6 +13,11 @@
       <includes>
         <include>build/**/*</include>
       </includes>
+      <excludes>
+      	<exclude>build/Gruntfile.js</exclude>
+      	<exclude>build/package.json</exclude>
+      	<exclude>build/build</exclude>
+      </excludes>
     </fileSet>
   </fileSets>
 </assembly>
