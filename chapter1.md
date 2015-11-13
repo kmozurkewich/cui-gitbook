@@ -6,6 +6,7 @@ This Chapter contains all the components available to the framework. Each compon
 #### Components List
 * [Cui-Angular Components](https://github.com/thirdwavellc/cui-ng/)
   * [Cui-Authorization](https://github.com/thirdwavellc/cui-ng/tree/master/utilities/cui-authorization)
+  * [Cui-Navigation](https://github.com/thirdwavellc/cui-ng/tree/master/utilities/cui-navigation)
   * [Cui-Wizard](https://github.com/thirdwavellc/cui-ng/tree/master/directives/cui-wizard)
 * [Cui-i18n](https://github.com/thirdwavellc/cui-i18n)
 * [Cui-icons](https://github.com/thirdwavellc/cui-icons)
