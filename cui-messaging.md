@@ -1,5 +1,5 @@
 # CUI Messaging
-Version 1.0
+Version 0.0.1
 
 
 ### Description
