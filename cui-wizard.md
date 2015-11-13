@@ -1,7 +1,6 @@
 # CUI Wizard
 Version 1.0
 
-
 ### Description
 Cui-wizard is an angular directive that, following a few syntax rules, allows the developer to easily create a multi-step form or any other component that requires a "step-through" approach.
 
