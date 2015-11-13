@@ -8,6 +8,7 @@ Build kit that utilizes jade to quickly create e-mail messages that share a layo
 
 ### Links
 * [Read me](https://github.com/thirdwavellc/cui-messaging/blob/master/README.md)
+* [Repository](https://github.com/thirdwavellc/cui-messaging)
 
 ### Demo
 * [Demo Link](http://cui.covisint.qa.thirdwavellc.com/cui-messaging-0.0.1-SNAPSHOT/build/index.html)
