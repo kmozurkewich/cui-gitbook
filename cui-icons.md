@@ -9,7 +9,7 @@ Icon Library for Core Covisint UI Functionality
 Replace #covisint-logo with the name of your svg and set viewBox to your svg's size.
 
 ```html
-  <svg class="cui-header__svg-logo" viewBox="0 0 640 124"><use xlink:href="bower_components/cui-icons/dist
+<svg class="cui-header__svg-logo" viewBox="0 0 640 124"><use xlink:href="bower_components/cui-icons/dist/logos/logos-out.svg#covisint-logo"></use></svg>
 ```
 
 ### How it works / features
