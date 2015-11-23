@@ -12,11 +12,13 @@ This tool kit requires the following applications and setups
 * Once Bower and Yeoman are installed, clone the this git repository: git@github.com:thirdwavellc/cui-ng-yeoman
  * ```git clone git@github.com:thirdwavellc/cui-ng-yeoman cui-ng-yeoman```
 * Change directory into the generator, install its dependencies then link it so it is available from anywhere
- * ```cd cui-ng-yeoman-2/generator-cui-ng/```
+ * ```cd cui-ng-yeoman/generator-cui-ng/```
  * ```npm install```
  * ```sudo npm link```
 * Then back out of that directory and make a new, empty directory for your project
  * ```cd ../../```
- * ```mkdir cui-ng-test```
- * ```cd cui-ng-test ```
+ * ```mkdir cui-ng-new-project```
+ * ```cd cui-ng-new-project```
+* Now, in that new directory, run the yeoman generator and you'll have some prompts to help set up the project.
+ * ```yo cui-ng```
 * [GitHub SSH Key](https://help.github.com/articles/generating-ssh-keys/)
