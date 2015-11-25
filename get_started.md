@@ -1,4 +1,4 @@
-##System Requirements & Setup Guide
+##Get Started
 
 This tool kit requires the following applications. Follow the steps below to set up the project.
 * Install [Node](https://nodejs.org/en/)
