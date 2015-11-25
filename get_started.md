@@ -30,3 +30,5 @@ This tool kit requires the following applications. Follow the steps below to set
  * ```cd cui-ng-new-project```
 * Now, in that new directory, run the yeoman generator and you'll have some prompts to help set up the project.
  * ```yo cui-ng```
+* Run ```grunt build```
+* Run ```grunt demo```
