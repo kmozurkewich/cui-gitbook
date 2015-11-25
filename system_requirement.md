@@ -19,6 +19,7 @@ This tool kit requires the following applications. Follow the steps below to set
  * HTTP: ```git clone https://github.com/thirdwavellc/cui-ng-yeoman cui-ng-yeoman``` 
  * SSH: ```git clone git@github.com:thirdwavellc/cui-ng-yeoman cui-ng-yeoman```
    * SSH Clone Requires [GitHub SSH Key](https://help.github.com/articles/generating-ssh-keys/)
+* Close the terminal application and restart it
 * Change directory into the generator, install its dependencies then link it so it is available from anywhere
  * ```cd cui-ng-yeoman/generator-cui-ng/```
  * ```npm install```
