@@ -6,12 +6,15 @@ This tool kit requires the following applications. Follow the steps below to set
 * Install [Bower](http://bower.io/)
  * Install Bower by executing this command: ```npm install -g bower```
  * May require ```sudo```
+ * Run ```bower --version``` to verify bower is installed
 * Install [Yeoman](http://yeoman.io/)
  * Install Yeoman by executing this command: ```npm install -g yo```
  * May require ```sudo```
+ * Run ```yo --version``` to verify yeoman is installed
 * Install [Grunt](http://gruntjs.com/)
  * Install Grunt by executing this command: ```npm install -g grunt-cli```
  * May require ```sudo```
+ * Run ```grunt --version``` to verify Grunt is installed
 * Once Bower, Yeoman and Grunt are installed, clone this git repository: [https://github.com/thirdwavellc/cui-ng-yeoman](https://github.com/thirdwavellc/cui-ng-yeoman) using your preferred method (HTTP, SSH, or Subversion as suggesteded by GitHub). However SSH is recommended.
  * HTTP: ```git clone https://github.com/thirdwavellc/cui-ng-yeoman cui-ng-yeoman``` 
  * SSH: ```git clone git@github.com:thirdwavellc/cui-ng-yeoman cui-ng-yeoman```
