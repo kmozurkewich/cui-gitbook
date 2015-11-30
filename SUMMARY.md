@@ -15,4 +15,5 @@
 * [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
 * Chapter 3: B2B Mode
 * Chapter 4: B2C Mode
+* Chapter 5: B2E Mode
 
