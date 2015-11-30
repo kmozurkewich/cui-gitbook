@@ -20,7 +20,7 @@ This tool kit requires the following applications. Follow the steps below to set
  * SSH: ```git clone git@github.com:thirdwavellc/cui-ng-yeoman cui-ng-yeoman```
    * SSH Clone Requires [GitHub SSH Key](https://help.github.com/articles/generating-ssh-keys/)
 * Close the terminal application and restart it
-* Change directory into the generator, install its dependencies then link it so it is available from anywhere
+* Change directory into the generator (generator-cui-ng), install its dependencies then link it so it is available from anywhere
  * ```cd cui-ng-yeoman/generator-cui-ng/```
  * ```npm install```
  * ```sudo npm link```
@@ -30,5 +30,4 @@ This tool kit requires the following applications. Follow the steps below to set
  * ```cd cui-ng-new-project```
 * Now, in that new directory, run the yeoman generator and you'll have some prompts to help set up the project.
  * ```yo cui-ng```
-* Run ```grunt build```
-* Run ```grunt demo```
+* To test the new code changes, run ```grunt```. This will launch a web browser and reflect all changes.
