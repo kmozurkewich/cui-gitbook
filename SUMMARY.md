@@ -14,4 +14,5 @@
    * [cui-styleguide](cui-styleguide.md)
 * [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
 * Chapter 3: B2B Mode
+* Chapter 4: B2C Mode
 
