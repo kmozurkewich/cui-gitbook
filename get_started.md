@@ -30,4 +30,5 @@ This tool kit requires the following applications. Follow the steps below to set
  * ```cd cui-ng-new-project```
 * Now, in that new directory, run the yeoman generator and you'll have some prompts to help set up the project.
  * ```yo cui-ng```
-* To test the new code changes, run ```grunt```. This will launch a web browser and reflect all changes.
+* To start viewing your work, type the command ```grunt```. It will launch a web browser and show the current work.
+ * There is no need to re-launch grunt. Every time a file is saved, the browser automatically reloads with the latest changes. 
