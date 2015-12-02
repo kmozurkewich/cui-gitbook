@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Background](background.md)
    * [Features](features.md)
-   * [System Requirement](system_requirement.md)
+   * [Get Started](get_started.md)
 * [Chapter 1: Component Library](chapter1.md)
    * [cui-angular](cui-angular.md)
        * [cui-authorization](cui-authorization.md)
