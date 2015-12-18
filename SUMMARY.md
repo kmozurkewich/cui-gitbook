@@ -8,6 +8,7 @@
    * [cui-angular](cui-angular.md)
        * [cui-authorization](cui-authorization.md)
        * [cui-wizard](cui-wizard.md)
+       * cui-avitar
    * [cui-i18n](cui-i18n.md)
    * [cui-icons](cui-icons.md)
    * [cui-messaging](cui-messaging.md)
