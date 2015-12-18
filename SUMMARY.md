@@ -6,8 +6,8 @@
    * [Get Started](get_started.md)
 * [Chapter 1: Component Library](chapter1.md)
    * [cui-angular](cui-angular.md)
-       * cui-avatar
        * [cui-authorization](cui-authorization.md)
+       * cui-avatar
        * [cui-wizard](cui-wizard.md)
    * [cui-i18n](cui-i18n.md)
    * [cui-icons](cui-icons.md)
