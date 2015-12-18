@@ -7,7 +7,7 @@
 * [Chapter 1: Component Library](chapter1.md)
    * [cui-angular](cui-angular.md)
        * [cui-authorization](cui-authorization.md)
-       * cui-auto-complete
+       * [cui-auto-complete](cui-auto-complete.md)
        * [cui-avatar](cui-avatar.md)
        * [cui-wizard](cui-wizard.md)
    * [cui-i18n](cui-i18n.md)
