@@ -1,4 +1,4 @@
-##Get Started
+# Get Started
 
 This tool kit requires the following applications. Follow the steps below to set up the project.
 * Install [Node](https://nodejs.org/en/)
@@ -15,6 +15,8 @@ This tool kit requires the following applications. Follow the steps below to set
  * Install Grunt by executing this command: ```npm install -g grunt-cli```
  * May require ```sudo```
  * Run ```grunt --version``` to verify Grunt is installed
+ 
+## To install the cui-ng yeoman generator
 * Once Bower, Yeoman and Grunt are installed, clone this git repository: [https://github.com/thirdwavellc/cui-ng-yeoman](https://github.com/thirdwavellc/cui-ng-yeoman) using your preferred method (HTTP, SSH, or Subversion as suggesteded by GitHub). However SSH is recommended.
  * HTTP: ```git clone https://github.com/thirdwavellc/cui-ng-yeoman cui-ng-yeoman``` 
  * SSH: ```git clone git@github.com:thirdwavellc/cui-ng-yeoman cui-ng-yeoman```
@@ -32,3 +34,21 @@ This tool kit requires the following applications. Follow the steps below to set
  * ```yo cui-ng```
 * To start viewing your work, type the command ```grunt```. It will launch a web browser and show the current work.
  * There is no need to re-launch grunt. Every time a file is saved, the browser automatically reloads with the latest changes. 
+ 
+## To install the cui-styleguide yeoman generator 
+* Once Bower, Yeoman and Grunt are installed, clone this git repository: [https://github.com/thirdwavellc/cui-styleguide-yeoman](https://github.com/thirdwavellc/cui-styleguide-yeoman) using your preferred method (HTTP, SSH, or Subversion as suggesteded by GitHub)
+ * HTTP: ```git clone https://github.com/thirdwavellc/cui-styleguide-yeoman cui-ng-yeoman``` 
+ * SSH: ```git clone git@github.com:thirdwavellc/cui-styleguide-yeoman cui-styleguide-yeoman```
+   * SSH Clone Requires [GitHub SSH Key](https://help.github.com/articles/generating-ssh-keys/)
+* Change directory into the generator, install its dependencies then link it so it is available from anywhere
+ * ```cd cui-styleguide-yeoman/generator-cui-styleguide/```
+ * ```npm install```
+ * ```sudo npm link```
+* Then back out of that directory and make a new, empty directory for your project
+ * ```cd ../../```
+ * ```mkdir cui-styleguide-new-project```
+ * ```cd cui-styleguide-new-project```
+* Now, in that new directory, run the yeoman generator and you'll have some prompts to help set up the project.
+ * ```yo cui-styleguide``` This will copy the necessary files to that directory and run `npm install` / `bower install` as needed.
+ * Run `grunt`. This will run the `grunt build` task, that generates the necessary static files and launches a browsersync window for you to see your changes in real time.
+ * To make changes to the styles use the `custom -> scss -> base/blocks/elements` folders - add your own files and import them in the corresponding `custom-xyz-dir.scss` file.
