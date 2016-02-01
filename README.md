@@ -1,6 +1,9 @@
 Covisint UI Framework
 =======
 Covisint
+!INCLUDE "cui-i18n.md"
+
+{% include "./cui-i18n.md" %}
 
 This book is designed to help UI developers to use the Covisint UI framework. UI developers should have basic knowledge on the following topics:
 
@@ -8,6 +11,3 @@ This book is designed to help UI developers to use the Covisint UI framework. UI
 * Angular JS
 * CSS
 * HTML
-* 
-
-!INCLUDE "chapter1.md"
