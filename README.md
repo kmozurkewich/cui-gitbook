@@ -8,3 +8,6 @@ This book is designed to help UI developers to use the Covisint UI framework. UI
 * Angular JS
 * CSS
 * HTML
+* 
+
+!INCLUDE "file.md"
