@@ -35,7 +35,7 @@ This tool kit requires the following applications. Follow the steps below to set
 * To start viewing your work, type the command ```grunt```. It will launch a web browser and show the current work.
  * There is no need to re-launch grunt. Every time a file is saved, the browser automatically reloads with the latest changes. 
  
- ## To install the cui-styleguide yeoman generator 
+## To install the cui-styleguide yeoman generator 
 * Once Bower, Yeoman and Grunt are installed, clone this git repository: [https://github.com/thirdwavellc/cui-styleguide-yeoman](https://github.com/thirdwavellc/cui-styleguide-yeoman) using your preferred method (HTTP, SSH, or Subversion as suggesteded by GitHub)
  * HTTP: ```git clone https://github.com/thirdwavellc/cui-styleguide-yeoman cui-ng-yeoman``` 
  * SSH: ```git clone git@github.com:thirdwavellc/cui-styleguide-yeoman cui-styleguide-yeoman```
