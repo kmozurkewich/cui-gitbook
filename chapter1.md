@@ -1,16 +1,18 @@
 ## Chapter 1: Reference Modules
 
-#### Overview
-This Chapter contains all the components available to the framework. Each component is designed to perform 1 string of connected/related  tasks. Components can be customized to accommodate any custom requirements.
+### Overview
 
-Due to its modular design nature, the readme document for each component is associated with that component's repository. 
+This Chapter contains documentation for all available CUI SDK components. Each component is designed to perform one string of connected/related tasks. Components are constantly updated to accommodate new/changing requirements.
 
-#### Components List
-* [Cui-Angular Components](https://github.com/thirdwavellc/cui-ng/)
-  * [Cui-Authorization](https://github.com/thirdwavellc/cui-ng/tree/master/utilities/cui-authorization)
-  * [Cui-Wizard](https://github.com/thirdwavellc/cui-ng/tree/master/directives/cui-wizard)
-* [Cui-i18n](https://github.com/thirdwavellc/cui-i18n)
-* [Cui-icons](https://github.com/thirdwavellc/cui-icons)
-* [Cui-Messaging](https://github.com/thirdwavellc/cui-messaging)
-* [Cui-Styleguide](https://github.com/thirdwavellc/cui-styleguide)
+The documentation for each component is associated with that component's Github Repository.
 
+### CUI Component List
+
+* [CUI-NG](https://github.com/thirdwavellc/cui-ng/)
+* [CUI-Styleguide](https://github.com/thirdwavellc/cui-styleguide)
+* [CUI-I18n](https://github.com/thirdwavellc/cui-i18n)
+* [CUI-Icons](https://github.com/thirdwavellc/cui-icons)
+* [CUI-Messaging](https://github.com/thirdwavellc/cui-messaging)
+
+#### Next: [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
+#### Home: [Table of Contents](README.md)
