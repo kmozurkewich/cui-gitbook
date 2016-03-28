@@ -2,7 +2,7 @@
 
 ### Overview
 
-This Chapter contains documentation for all available CUI SDK components. Each component is designed to perform 1 string of connected/related tasks. Components are constantly updated to accommodate new/changing requirements.
+This Chapter contains documentation for all available CUI SDK components. Each component is designed to perform one string of connected/related tasks. Components are constantly updated to accommodate new/changing requirements.
 
 The documentation for each component is associated with that component's Github Repository.
 
@@ -14,4 +14,5 @@ The documentation for each component is associated with that component's Github 
 * [CUI-Icons](https://github.com/thirdwavellc/cui-icons)
 * [CUI-Messaging](https://github.com/thirdwavellc/cui-messaging)
 
+#### Next: [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
 #### Home: [Table of Contents](README.md)

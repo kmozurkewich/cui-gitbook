@@ -20,7 +20,7 @@
 	* Install Grunt with NPM: ```npm install -g grunt-cli```
  	* You can verify Grunt is installed by running: ```grunt --version```
  
-### Start a CUI project using Yeoman
+### Start CUI-NG project using Yeoman
 
 This section assumes you have all the prerequisites installed.
 
@@ -37,7 +37,7 @@ This section assumes you have all the prerequisites installed.
 	* Link CUI-NG Yeoman to be available to other directories: ```sudo npm link```
 
 * Create new CUI project directory
-	* Exit CUI-NG Yeoman project: ```cd..```
+	* Exit CUI-NG Yeoman project: ```cd ../../```
 	* Create new project directory: ```mkdir cui-ng-new-project```
 	* Change directory into your new project directory: ```cd cui-ng-new-project```
 
@@ -49,7 +49,7 @@ This section assumes you have all the prerequisites installed.
 		* This will launch the project your default web browser
 		* Any changes made to project files will automatically update the project in the browser
  
-## Install CUI-Styleguide using Yeoman
+## Start CUI-Styleguide project using Yeoman
 
 This section assumes you have all the prerequisites installed.
 
@@ -66,7 +66,7 @@ This section assumes you have all the prerequisites installed.
 	* Link CUI-Styleguide Yeoman to be available to other directories: ```sudo npm link```
 
 * Create new CUI-Styleguide project directory
-	* Exit CUI-Styleguide Yeoman project: ```cd..```
+	* Exit CUI-Styleguide Yeoman project: ```cd ../../```
 	* Create new CUI-Styleguide project directory: ```mkdir cui-styleguide-new-project```
 	* Change directory into your new project directory: ```cd cui-styleguide-new-project```
 
@@ -77,5 +77,5 @@ This section assumes you have all the prerequisites installed.
 	* Launch browersync to see changes in real time in your default browser: ```grunt```
 	* Make style changes in `custom -> scss -> base/block/elements` folders - add your own files and import them in the corresponding `custom-xyz-dir.scss` file
 
-#### Next: [Chapter 1](chapter1.md)
+#### Next: [Chapter 1: Reference Modules](chapter1.md)
 #### Home: [Table of Contents](README.md)
