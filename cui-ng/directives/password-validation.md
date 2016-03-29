@@ -4,7 +4,7 @@ Version 1.0
 ### Description
 Password validation is an angular directive made for use with [ngMessages](https://docs.angularjs.org/api/ngMessages/directive/ngMessages) to easily display errors validating a password field.
 
-NOTE: If you need more customized password validation rules use [`custom-error`](cui-ng/directives/custom-error.md).
+NOTE: If you need more customized password validation rules use [`custom-error`](custom-error.md).
 
 ### Links
 * [Read Me](https://github.com/thirdwavellc/cui-ng/tree/master/directives/password-validation)
