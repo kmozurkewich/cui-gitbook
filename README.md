@@ -1,5 +1,5 @@
-Covisint UI Framework
-=======
+# Covisint UI Framework
+
 Covisint
 
 This book is designed to help UI developers to use the Covisint UI framework. UI developers should have basic knowledge on the following topics:
@@ -8,3 +8,4 @@ This book is designed to help UI developers to use the Covisint UI framework. UI
 * Angular JS
 * CSS
 * HTML
+
