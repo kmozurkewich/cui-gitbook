@@ -14,6 +14,7 @@
     * [cui-icons](cui-icons.md)
     * [cui-messaging](cui-messaging.md)
     * [cui-styleguide](cui-styleguide.md)
+* [Chapter 2: B2X Mode](chapter-2-b2x-mode.md)
 * [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
 * [Chapter 3: B2B Mode](chapter-3-b2b-mode.md)
 * [Chapter 4: B2C Mode](chapter-4-b2c-mode.md)
