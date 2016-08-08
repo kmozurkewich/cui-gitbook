@@ -9,11 +9,14 @@ Due to its modular design nature, the readme document for each component is asso
 #### Components List
 
 * [Cui-Angular Components](https://github.com/covisint/cui-ng/)
+
   * [Cui-Authorization](https://github.com/covisint/cui-ng/tree/master/utilities/cui-authorization)
   * [Cui-Wizard](https://github.com/thirdwavellc/cui-ng/tree/master/directives/cui-wizard)
 
 * [Cui-i18n](https://github.com/thirdwavellc/cui-i18n)
+
 * [Cui-icons](https://github.com/thirdwavellc/cui-icons)
 * [Cui-Messaging](https://github.com/thirdwavellc/cui-messaging)
 * [Cui-Styleguide](https://github.com/thirdwavellc/cui-styleguide)
+* 
 
