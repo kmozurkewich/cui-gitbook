@@ -9,8 +9,7 @@ Cui-avatar is a directive that inserts the user's avatar into the background of 
 ### Links
 
 * [Repository](https://github.com/covisint/cui-ng)
-* [Read Me](https://github.com/thirdwavellc/cui-ng/blob/master/directives/cui-avatar/README.md)
-
+* [Read Me](https://github.com/Covisint/cui-ng/blob/master/directives/cui-avatar/README.md)
 
 ### Demo
 

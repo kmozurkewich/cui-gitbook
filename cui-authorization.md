@@ -10,8 +10,7 @@ Cui-authorization is a module that depends on ui-router and will allow a user to
 
 * [Repository](https://github.com/covisint/cui-ng)
 
-* [Read Me](https://github.com/thirdwavellc/cui-ng/blob/master/utilities/cui-authorization/README.md)
-
+* [Read me](https://github.com/covisint/cui-ng/blob/master/utilities/cui-authorization/README.md)
 
 ### Demo
 
