@@ -10,9 +10,10 @@ Cui-wizard is an angular directive that, following a few syntax rules, allows th
 
 * [Repository](https://github.com/covisint/cui-ng)
 
-* [Read Me](https://github.com/thirdwavellc/cui-ng/blob/master/directives/cui-wizard/README.md)
+* [Read Me](https://github.com/covisint/cui-ng/blob/master/directives/cui-wizard/README.md)
+
 
 ### Demo
 
-* [Demo Link](http://cui.covisint.qa.thirdwavellc.com/cui-ng-0.0.1-SNAPSHOT/build/index.html#/wizard)
+* [Link](http://cui.covisint.qa.thirdwavellc.com/)
 

@@ -1,13 +1,17 @@
 # CUI Icons
+
 Version 1.0
 
-
 ### Description
+
 Icon Library for Core Covisint UI Functionality
 
 ### Links
-* [Read Me](https://github.com/thirdwavellc/cui-icons/blob/master/README.md)
-* [Repository](https://github.com/thirdwavellc/cui-icons    )
+
+* [Repository](https://github.com/Covisint/cui-icons)
+* [Read Me](https://github.com/Covisint/cui-icons/blob/master/README.md)
 
 ### Demo
-* [Demo Link](http://cui.covisint.qa.thirdwavellc.com/cui-icons-0.0.1-SNAPSHOT/build/index.html)
+
+* [Link](http://cui.covisint.qa.thirdwavellc.com/)
+

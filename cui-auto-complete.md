@@ -13,5 +13,5 @@ Auto-complete is a directive that enables type-ahead for any type of data. Extra
 
 ### Demo
 
-* [Demo Link](http://cui.covisint.qa.thirdwavellc.com/cui-ng-0.0.1-SNAPSHOT/build/index.html#/wizard)
+* [Link](http://cui.covisint.qa.thirdwavellc.com/)
 

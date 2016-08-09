@@ -13,5 +13,5 @@ Cui-avatar is a directive that inserts the user's avatar into the background of 
 
 ### Demo
 
-* [Demo Link](http://cui.covisint.qa.thirdwavellc.com/cui-ng-0.0.1-SNAPSHOT/build/index.html#/wizard)
+* [Link](http://cui.covisint.qa.thirdwavellc.com/)
 
