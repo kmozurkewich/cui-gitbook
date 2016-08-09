@@ -4,5 +4,6 @@
         "abstract": "Covisint user interface development kit...",
         "portal-page-url": "/learn/cui",
         "portal-display-priority": "900"
-    }
+    },
+"plugins" : [ "include" ]
 }

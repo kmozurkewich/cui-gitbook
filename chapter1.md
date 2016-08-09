@@ -1,18 +1,20 @@
 ## Chapter 1: Reference Modules
 
-### Overview
+#### Overview
 
-This Chapter contains documentation for all available CUI SDK components. Each component is designed to perform one string of connected/related tasks. Components are constantly updated to accommodate new/changing requirements.
+This Chapter contains all the components available to the framework. Each component is designed to perform 1 string of connected\/related  tasks. Components can be customized to accommodate any custom requirements.
 
-The documentation for each component is associated with that component's Github Repository.
+Due to its modular design nature, the readme document for each component is associated with that component's repository.
 
-### CUI Component List
+#### Components List
 
-* [CUI-NG](https://github.com/thirdwavellc/cui-ng/)
-* [CUI-Styleguide](https://github.com/thirdwavellc/cui-styleguide)
-* [CUI-I18n](https://github.com/thirdwavellc/cui-i18n)
-* [CUI-Icons](https://github.com/thirdwavellc/cui-icons)
-* [CUI-Messaging](https://github.com/thirdwavellc/cui-messaging)
+* [Cui-Angular Components](https://github.com/covisint/cui-ng/)
 
-#### Next: [Chapter 2: B2P Mode](chapter_2_b2p_mode.md)
-#### Home: [Table of Contents](README.md)
+  * [Cui-Authorization](https://github.com/covisint/cui-ng/tree/master/utilities/cui-authorization)
+  * [Cui-Wizard](https://github.com/covisint/cui-ng/tree/master/directives/cui-wizard)
+
+* [Cui-i18n](https://github.com/covisint/cui-i18n)
+* [Cui-icons](https://github.com/covisint/cui-icons)
+* Cui-Messaging
+* [Cui-Styleguide](https://github.com/covisint/cui-styleguide)
+

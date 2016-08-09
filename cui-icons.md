@@ -1,16 +1,17 @@
 # CUI Icons
+
 Version 1.0
 
-
 ### Description
-Icon Library for Core Covisint UI Functionality.
 
-Along with the svg sprites used in the reference implementations of the cui products, in this repo we also provide the grunt task necessary for creating svg sprites.
-The developer can then use the [cui-icon directive](cui-ng/directives/cui-icon.md) to easily access individual svgs from those sprites, in an angular app.
-
+Icon Library for Core Covisint UI Functionality
 
 ### Links
-* [Repository & Readme](https://github.com/thirdwavellc/cui-icons)
+
+* [Repository](https://github.com/Covisint/cui-icons)
+* [Read Me](https://github.com/Covisint/cui-icons/blob/master/README.md)
 
 ### Demo
-* [Demo Link](http://cui.covisint.qa.thirdwavellc.com/cui-icons-0.0.1-SNAPSHOT/build/index.html)
+
+* [Link](http://cui.covisint.qa.thirdwavellc.com/)
+
