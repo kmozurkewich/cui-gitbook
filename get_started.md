@@ -1,81 +1,46 @@
-## Installation
+## Get Started
 
-### Prerequisites
+This tool kit requires the following applications. Follow the steps below to set up the project.
 
-**Node & NPM**
 * Install [Node](https://nodejs.org/en/)
+  * This will install Node and NPM
 
-**Bower**
 * Install [Bower](http://bower.io/)
-	* Installing Bower with NPM: ```npm install -g bower```
- 	* You can verify bower is installed by running: ```bower --version```
+  * Install Bower by executing this command: `npm install -g bower`
+  * May require `sudo`
+  * Run `bower --version` to verify bower is installed
 
-**Yeoman** 
 * Install [Yeoman](http://yeoman.io/)
- 	* Install Yeoman with NPM: ```npm install -g yo```
- 	* You can verify Yeoman is installed by running: ```yo --version```
+  * Install Yeoman by executing this command: `npm install -g yo`
+  * May require `sudo`
+  * Run `yo --version` to verify yeoman is installed
 
-**Grunt**
 * Install [Grunt](http://gruntjs.com/)
-	* Install Grunt with NPM: ```npm install -g grunt-cli```
- 	* You can verify Grunt is installed by running: ```grunt --version```
- 
-### Start CUI-NG project using Yeoman
+  * Install Grunt by executing this command: `npm install -g grunt-cli`
+  * May require `sudo`
+  * Run `grunt --version` to verify Grunt is installed
 
-This section assumes you have all the prerequisites installed.
+* Once Bower, Yeoman and Grunt are installed, clone this git repository: [https:\/\/github.com\/covisint\/cui-ng-yeoman](https://github.com/covisint/cui-ng-yeoman) using your preferred method \(HTTP, SSH, or Subversion as suggesteded by GitHub\). However SSH is recommended.
+  * HTTP: `git clone https://github.com/thirdwavellc/cui-ng-yeoman cui-ng-yeoman` 
+  * SSH: `git clone git@github.com:thirdwavellc/cui-ng-yeoman cui-ng-yeoman`
+    * SSH Clone Requires [GitHub SSH Key](https://help.github.com/articles/generating-ssh-keys/)
 
-* Clone the [CUI-NG Yeoman Github Repository](https://github.com/thirdwavellc/cui-ng-yeoman)
-	* Via SSH (Recommended): ```git clone git@github.com:thirdwavellc/cui-ng-yeoman cui-ng-yeoman```
-		* SSH Cloning requires the use of a [Github SSH Key](https://help.github.com/articles/generating-ssh-keys/)
-	* Via HTTP: ```git clone https://github.com/thirdwavellc/cui-ng-yeoman cui-ng-yeoman```
 
-* Restart your terminal application
+* Close the terminal application and restart it
+* Change directory into the generator \(generator-cui-ng\), install its dependencies then link it so it is available from anywhere
+  * `cd cui-ng-yeoman/generator-cui-ng/`
+  * `npm install`
+  * `sudo npm link`
 
-* Setup cloned CUI-NG Yeoman project
-	* Change directory into the cloned CUI-NG Yeoman project: ```cd cui-ng-yeoman/generator-cui-ng/```
-	* Install project dependencies: ```npm install```
-	* Link CUI-NG Yeoman to be available to other directories: ```sudo npm link```
+* Then back out of that directory and make a new, empty directory for your project
+  * `cd ../../`
+  * `mkdir cui-ng-new-project`
+  * `cd cui-ng-new-project`
 
-* Create new CUI project directory
-	* Exit CUI-NG Yeoman project: ```cd ../../```
-	* Create new project directory: ```mkdir cui-ng-new-project```
-	* Change directory into your new project directory: ```cd cui-ng-new-project```
+* Now, in that new directory, run the yeoman generator and you'll have some prompts to help set up the project.
+  * `yo cui-ng`
 
-* Build your starting CUI project
-	* Use Yeoman to build your CUI starter project: ```yo cui-ng```
+* To start viewing your work, type the command `grunt`. It will launch a web browser and show the current work.
+  * There is no need to re-launch grunt. Every time a file is saved, the browser automatically reloads with the latest changes. 
 
-* Start viewing project changes using Grunt
-	* At the project root: ```grunt```
-		* This will launch the project your default web browser
-		* Any changes made to project files will automatically update the project in the browser
- 
-## Start CUI-Styleguide project using Yeoman
 
-This section assumes you have all the prerequisites installed.
-
-* Clone the [CUI-Styleguide Github Repository](https://github.com/thirdwavellc/cui-styleguide-yeoman)
-	* Via SSH (Recommended): ```git clone git@github.com:thirdwavellc/cui-styleguide-yeoman cui-styleguide-yeoman```
-		* SSH Cloning required the use of a [Github SSH Key](https://help.github.com/articles/generating-ssh-keys/)
-	* Via HTTP: ```git clone https://github.com/thirdwavellc/cui-styleguide-yeoman cui-ng-yeoman```
-
-* Restart your terminal application
-
-* Setup cloned CUI-Styleguide Yeoman project
-	* Change directory into the cloned CUI-Styleguide project: ```cd cui-styleguide-yeoman/generator-cui-styleguide/```
-	* Install project dependencies: ```npm install```
-	* Link CUI-Styleguide Yeoman to be available to other directories: ```sudo npm link```
-
-* Create new CUI-Styleguide project directory
-	* Exit CUI-Styleguide Yeoman project: ```cd ../../```
-	* Create new CUI-Styleguide project directory: ```mkdir cui-styleguide-new-project```
-	* Change directory into your new project directory: ```cd cui-styleguide-new-project```
-
-* Build your starting CUI-Styleguide project
-	* Use Yeoman to build your CUI-Styleguide starter project: ```yo cui-styleguide```
-
-* Edit Styleguide as needed
-	* Launch browersync to see changes in real time in your default browser: ```grunt```
-	* Make style changes in `custom -> scss -> base/block/elements` folders - add your own files and import them in the corresponding `custom-xyz-dir.scss` file
-
-#### Next: [Chapter 1: Reference Modules](chapter1.md)
-#### Home: [Table of Contents](README.md)
