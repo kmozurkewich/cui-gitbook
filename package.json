@@ -9,6 +9,15 @@
     "grunt-lineending": "^0.2.4",
     "grunt-mkdir": "^0.1.2",
     "grunt-regex-replace": "^0.2.6",
-    "load-grunt-tasks": "^3.3.0"
+    "load-grunt-tasks": "^3.3.0",
+
+    "@covisint/cui.js":"^2.1.6",
+    "@covisint/cui-i18n":"^1.0.0",
+    "@covisint/cui-icons":"^1.0.2",
+    "@covisint/cui-styleguide":"^2.1.0",
+    "@covisint/cui-ng":"^1.8.10",
+    "@covisint/cui-api-interceptor":"^1.0.2",
+    "generator-cui-ng":"^0.2.14",
+    "generator-cui-portlet":"^0.1.0"
   }
 }
