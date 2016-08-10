@@ -1,6 +1,6 @@
 #!/bin/bash
 
-npm install
+npm install --registry https://registry.npmjs.org/
 gitbook install
 grunt build
 mvn clean package deploy -U
