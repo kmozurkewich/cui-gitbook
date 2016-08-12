@@ -6,5 +6,5 @@ This directive wraps the [Tether](http://github.hubspot.com/tether/) API into a 
 The tethered element will follow the element it's attached to through scrolls and window resizes.
 
 ### Links
-* [Read Me](https://github.com/thirdwavellc/cui-ng/tree/master/directives/tether)
-* [Repository](https://github.com/thirdwavellc/cui-ng)
+* [Read Me](https://github.com/covisint/cui-ng/tree/master/directives/tether)
+* [Repository](https://github.com/covisint/cui-ng)
