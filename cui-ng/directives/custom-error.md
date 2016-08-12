@@ -5,7 +5,7 @@ Version 1.0
 Attach custom errors to an input based on custom validation functions. The validation function can compare scope variables or even do server side checking.
 
 ### Links
-* [Read Me](https://github.com/thirdwavellc/cui-ng/tree/master/directives/custom-error)
+* [Read Me](https://github.com/covisint/cui-ng/tree/master/directives/custom-error)
 * [Repository](https://github.com/thirdwavellc/cui-ng)
 
 ### Demo
