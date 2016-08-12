@@ -3,7 +3,6 @@
 npm install --registry https://registry.npmjs.org/
 gitbook install
 grunt build
-touch Staticfile
 rm ./build/package.json
 rm ./build/manifest.yml
 rm ./build/Gruntfile.json
