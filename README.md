@@ -8,7 +8,7 @@ This book assumes developers have basic knowledge on the following topics:
 
 * Javascript
 * Angular JS
+* GIT version control
 * CSS
 * HTML
-
 
