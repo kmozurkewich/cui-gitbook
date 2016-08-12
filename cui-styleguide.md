@@ -13,8 +13,9 @@ In order to alter these variables in your project, please refer to the Quick Sta
 This project supports the latest two releases of Chrome, Firefox, and Safari. In addition, we support IE11 and Edge. Supporting browsers older than that would have required a great deal of effort. By taking this approach, we are able to allocate our resources toward making the best UI library for the present and future, rather than spending countless hours supporting a handful of browsers from the past that hold a small and increasingly shrinking market share.
 
 ### Links
-[Link to repository and readme](https://github.com/thirdwavellc/cui-styleguide)
-[Link to documentation for variable overrides](https://github.com/thirdwavellc/cui-styleguide/tree/master/source/scss/base/README.md)
+[Link to repository and readme](https://github.com/covisint/cui-styleguide)
+
+[Link to documentation for variable overrides](https://github.com/covisint/cui-styleguide/tree/master/source/scss/base/README.md)
 
 ### Demo
 [Link to demo](http://cui.covisint.qa.thirdwavellc.com/cui-styleguide-0.0.1-SNAPSHOT/styleguide/index.html)
