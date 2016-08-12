@@ -9,10 +9,25 @@
 * [Chapter 1: Component Library](chapter1.md)
 
   * [cui-angular](cui-ng/cui-ng.md)
-    * Directives
-     * [cui-auto-complete](cui-auto-complete.md)
-     * [cui-avatar](cui-avatar.md)
-     * [cui-wizard](cui-wizard.md)
+    * [Directives](cui-ng/directives.md)
+     * [cui-auto-complete](cui-ng/auto-complete.md)
+     * [Class-toggle](cui-ng/class-toggle.md)
+     * [Cui-Avatar](cui-ng/cui-avatar.md)
+     * [Cui-Expandable](cui-ng/cui-expandable.md)
+     * [Cui-Icon](cui-ng/cui-icon.md)
+     * [Cui-Wizard](cui-ng/cui-wizard.md)
+     * [Custom-error](cui-ng/custom-error.md)
+     * [Focus-if](cui-ng/focus-if.md)
+     * [Inline-edit](cui-ng/inline-edit.md)
+     * [Match](cui-ng/match.md)
+     * [Off-Click](cui-ng/off-click.md)
+     * [Paginate](cui-ng/paginate.md)
+     * [Password-validation](cui-ng/password-validation.md)
+     * [Results-per-page](cui-ng/results-per-page.md)
+     * [Tags-input](cui-ng/tags-input.md)
+     * [Tether](cui-ng/tether.md)
+     * [Ui-sref-active-nested](cui-ng/ui-sref-active-nested.md)
+     
     * Providers
     * Filters
     * Utilities
