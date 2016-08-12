@@ -14,6 +14,7 @@ This project supports the latest two releases of Chrome, Firefox, and Safari. In
 
 ### Links
 [Link to repository and readme](https://github.com/thirdwavellc/cui-styleguide)
+[Link to documentation for variable overrides](https://github.com/thirdwavellc/cui-styleguide/tree/master/source/scss/base/README.md)
 
 ### Demo
 [Link to demo](http://cui.covisint.qa.thirdwavellc.com/cui-styleguide-0.0.1-SNAPSHOT/styleguide/index.html)
