@@ -1,0 +1,6 @@
+applications:
+- name: cui-gitbook
+  memory: 64M
+  instances: 1
+  host: cui-gitbook
+  path: ./build/
