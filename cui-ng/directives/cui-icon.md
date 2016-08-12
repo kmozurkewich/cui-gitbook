@@ -5,7 +5,7 @@ Version 1.0
 The cui-icon directive and $cuiIcon provider work together to facilitate the inclusion of svg sprites.
 
 ### Links
-* [Read Me](https://github.com/thirdwavellc/cui-ng/tree/master/directives/cui-icon)
+* [Read Me](https://github.com/covisint/cui-ng/tree/master/directives/cui-icon)
 * [Repository](https://github.com/covisint/cui-ng)
 
 ### Demo
