@@ -10,7 +10,7 @@
 
   * [cui-angular](cui-ng/cui-ng.md)
     * [Directives](cui-ng/directives.md)
-     * [cui-auto-complete](cui-ng/auto-complete.md)
+     * [Cui-Auto-Complete](cui-ng/auto-complete.md)
      * [Class-toggle](cui-ng/class-toggle.md)
      * [Cui-Avatar](cui-ng/cui-avatar.md)
      * [Cui-Expandable](cui-ng/cui-expandable.md)
