@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](SUMMARY.md)
     * [Background](background.md)
     * [Features](features.md)
     * [Get Started](get_started.md)
