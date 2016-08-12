@@ -7,7 +7,7 @@ Class toggle allows you to easily toggle a class on an element from any user int
 This is especially useful when trying to hide/show dom elements based on a certain "state" in the application.
 
 ### Links
-* [Read Me](https://github.com/thirdwavellc/cui-ng/tree/master/directives/class-toggle)
+* [Read Me](https://github.com/covisint/cui-ng/tree/master/directives/class-toggle)
 * [Repository](https://github.com/covisint/cui-ng)
 
 ### Demo
