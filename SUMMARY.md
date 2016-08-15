@@ -10,7 +10,7 @@ Documentation detailing the setup and use of the CUI SDK.
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](SUMMARY.md)
+* [Introduction](README.md)
     * [Background](background.md)
     * [Features](features.md)
     * [Get Started](get_started.md)
