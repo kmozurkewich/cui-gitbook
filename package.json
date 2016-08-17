@@ -1,7 +1,6 @@
 {
   "name": "cui-gitbook",
   "version": "1.1.1",
-
   "description": "Contextual documentation for the CUI Framework.",
   "license": "SEE LICENSE IN LICENSE",
   "author": {
@@ -24,7 +23,6 @@
       "email": "orin.fink@thirdwavellc.com"
     }
   ],
-
   "homepage": "https://github.com/thirdwavellc/cui-icons",
   "repository": {
     "type": "git",
@@ -36,8 +34,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "devDependencies": {
+    "@covisint/cui-api-interceptor": "^1.0.2",
+    "@covisint/cui-i18n": "^1.0.0",
+    "@covisint/cui-icons": "^1.0.2",
+    "@covisint/cui-ng": "^1.8.10",
+    "@covisint/cui-styleguide": "^2.1.0",
+    "@covisint/cui.js": "^2.1.6",
+    "generator-cui-ng": "^0.2.14",
+    "generator-cui-portlet": "^0.1.0",
+    "gitbook": "^3.2.0",
+    "gitbook-cli": "^2.3.0",
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "",
     "grunt-contrib-copy": "",
@@ -45,15 +52,6 @@
     "grunt-lineending": "^0.2.4",
     "grunt-mkdir": "^0.1.2",
     "grunt-regex-replace": "^0.2.6",
-    "load-grunt-tasks": "^3.3.0",
-
-    "@covisint/cui.js":"^2.1.6",
-    "@covisint/cui-i18n":"^1.0.0",
-    "@covisint/cui-icons":"^1.0.2",
-    "@covisint/cui-styleguide":"^2.1.0",
-    "@covisint/cui-ng":"^1.8.10",
-    "@covisint/cui-api-interceptor":"^1.0.2",
-    "generator-cui-ng":"^0.2.14",
-    "generator-cui-portlet":"^0.1.0"
+    "load-grunt-tasks": "^3.3.0"
   }
 }
