@@ -1,6 +1,6 @@
 #!/bin/bash
 
-npm install --registry https://registry.npmjs.org/
+npm install
 gitbook install
 grunt build
 rm ./build/package.json

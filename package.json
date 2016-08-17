@@ -1,6 +1,42 @@
 {
   "name": "cui-gitbook",
   "version": "1.1.1",
+
+  "description": "Contextual documentation for the CUI Framework.",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": {
+    "name": "Thirdwave, LLC",
+    "email": "support@thirdwavellc.com",
+    "url": "http://www.thirdwavellc.com/"
+  },
+  "contibutors": [
+    {
+      "name": "Ricardo Marques"
+    },
+    {
+      "name": "Piotr Bogun"
+    },
+    {
+      "name": "Shane Ardell"
+    },
+    {
+      "name": "Orin Fink",
+      "email": "orin.fink@thirdwavellc.com"
+    }
+  ],
+
+  "homepage": "https://github.com/thirdwavellc/cui-icons",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thirdwavellc/cui-icons"
+  },
+  "bugs": {
+    "url": "https://github.com/thirdwavellc/cui-icons/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "",
