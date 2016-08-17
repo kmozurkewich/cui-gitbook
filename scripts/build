@@ -3,9 +3,9 @@
 npm install
 gitbook install
 grunt build
-rm ./build/package.json
-rm ./build/manifest.yml
-rm ./build/Gruntfile.json
-rm ./build/pom.xml
+rm ./build/package.json || true
+rm ./build/manifest.yml || true
+rm ./build/Gruntfile.json || true
+rm ./build/pom.xml || true
 mvn clean package deploy -U
 cf push
