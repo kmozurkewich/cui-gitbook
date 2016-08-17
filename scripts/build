@@ -8,4 +8,3 @@ rm ./build/manifest.yml || true
 rm ./build/Gruntfile.json || true
 rm ./build/pom.xml || true
 mvn clean package deploy -U
-cf push
