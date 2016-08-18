@@ -1,5 +1,21 @@
 ## **Installation**
 
+### **Important Values to Have**
+
+At the outset of your working with the CUI Framework, we assume that you have an instance that has been provisioned to your team.  As a developer, you will also want to ensure that you have the following set of 'secret' information handy.  The example template below can also be used as environment variables in a Postman client as well to make testing calls directly to the APIs a bit easier.
+
+```
+realmCode:s-awesome-dev01
+uihost:https://s-awesome-ui01.covapp.io
+originUri:s-awesome-ui01.covapp.io
+clientId:GobbleDg00kSetoFch4rs
+clientSecret:s$cr$tSetoFch4rs
+apigee:https://api.covapp.io
+solutionInstanceId:ddab688e-0109-441c-8a20-878c3aa108fd
+platformApiBase:https://s-3rdwave-ui01.covapp.io/p/apiProxy
+```
+
+
 ### **Prerequisites**
 
 **Node & NPM**
