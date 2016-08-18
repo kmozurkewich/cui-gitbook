@@ -4,8 +4,6 @@
 
 Documentation detailing the setup and use of the CUI SDK.
 
-Taco cat Race car
-
 ### **Table of Contents**
 
 * [Introduction](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/README.md)
