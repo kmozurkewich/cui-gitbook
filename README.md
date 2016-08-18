@@ -4,16 +4,22 @@
 
 Documentation detailing the setup and use of the CUI SDK.
 
+Taco cat Race car
+
 ### **Table of Contents**
 
 * [Introduction](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/README.md)
+
   * [Background](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/background.md)
   * [Features](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/features.md)
   * [Get Started](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/get_started.md)
 
 * [Chapter 1: Component Library](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/chapter1.md)
+
   * [Cui-ng](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/cui-ng.md)
+
     * [Directives](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/directives/directives.md)
+
       * [Auto-complete](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/directives/auto-complete.md)
       * [Class-toggle](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/directives/class-toggle.md)
       * [Cui-Avatar](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/directives/cui-avatar.md)
@@ -33,19 +39,24 @@ Documentation detailing the setup and use of the CUI SDK.
       * [Ui-sref-active-nested](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/directives/ui-sref-active-nested.md)
 
     * [Providers](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/providers/providers.md)
+
       * [$CuiI18n](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/providers/$CuiI18n.md)
 
     * [Filters](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/filters/filters.md)
+
       * [cuiI18n](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/filters/cuiI18n.md)
 
     * [Utilities](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/utilities/utilities.md)
+
       * [cui-authorization](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-ng/utilities/cui-authorization.md)
 
 
-  * [cui-styleguide](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-styleguide.md)
-  * [cui-i18n](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-i18n.md)
-  * [cui-icons](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-icons.md)
-  * [cui-messaging](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-messaging.md)
+
+
+* [cui-styleguide](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-styleguide.md)
+* [cui-i18n](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-i18n.md)
+* [cui-icons](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-icons.md)
+* [cui-messaging](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/cui-messaging.md)
 
 * [Chapter 2: B2P Mode](https://github.com/thirdwavellc/cui-gitbook/blob/33bd2902212771ae3f419854048db8dbdb645d8f/chapter_2_b2p_mode.md)
 
