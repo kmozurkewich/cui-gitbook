@@ -1,9 +1,9 @@
 {
-    "variables": {
-        "title": "Covisint UI SDK",
-        "abstract": "Covisint user interface development kit...",
-        "portal-page-url": "/learn/cui",
-        "portal-display-priority": "900"
-    },
-"plugins" : [ "include" ]
+	"variables": {
+	    "title": "Covisint UI SDK",
+	    "abstract": "Covisint user interface development kit...",
+	    "portal-page-url": "/learn/cui",
+	    "portal-display-priority": "900"
+	},
+	"plugins" : [ "include", "collapsible-menu" ]
 }
