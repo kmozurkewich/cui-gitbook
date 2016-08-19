@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
     * [Background](background.md)
-    * [Features](features.md)
     * [Get Started](get_started.md)
 * [Chapter 1: Component Library](chapter1.md)
     * [cui-styleguide](cui-styleguide.md)
