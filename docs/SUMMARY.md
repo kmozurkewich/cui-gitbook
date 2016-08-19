@@ -6,7 +6,6 @@
 * [Accelerators](accelerators/cui-idm-b2x.md)
 * [Packages](packages/overview.md)
     * [cui-styleguide](packages/cui-styleguide/overview.md)
-        *[Custom Styleguide](packages/cui-styleguide/generator.md)
     * [cui-i18n](packages/cui-i18n.md)
     * [cui-icons](packages/cui-icons.md)
     * [cui-ng](packages/cui-ng/cui-ng.md)
