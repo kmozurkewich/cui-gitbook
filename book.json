@@ -1,5 +1,5 @@
 {
-	"root":"cui-framework",
+	"root":"docs",
 	"variables": {
 	    "title": "CUI Framework",
 	    "abstract": "Covisint user interface framework",

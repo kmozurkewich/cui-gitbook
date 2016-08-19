@@ -14,7 +14,7 @@ module.exports = function(grunt) {
 	  
 	  gitbook: {
 		  html: {
-			  input: './cui-framework/',
+			  input: './docs/',
 			  output: '<%= globalConfig.buildDir %>'
 		  }
 
