@@ -4,6 +4,7 @@
     * [Background](background.md)
     * [Get Started](get_started.md)
 * [Chapter 1: Component Library](chapter1.md)
+* [Reference Implementation](b2x-mode.md)
     * [cui-styleguide](cui-styleguide.md)
     * [cui-i18n](cui-i18n.md)
     * [cui-icons](cui-icons.md)
