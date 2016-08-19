@@ -3,8 +3,4 @@
 npm install
 gitbook install
 grunt build
-rm ./build/package.json || true
-rm ./build/manifest.yml || true
-rm ./build/Gruntfile.js || true
-rm ./build/pom.xml || true
 

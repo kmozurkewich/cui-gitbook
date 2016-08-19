@@ -1,3 +1,4 @@
 #!/bin/bash
 
+touch build/Staticfile
 cf push 
