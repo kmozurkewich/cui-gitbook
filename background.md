@@ -8,10 +8,10 @@ The CUI SDK was built to provide various components to assist in:
 
 ### High level usage example:
 
-![](Images/ProjectOverview.png)
+![](images/ProjectOverview.png)
 
 ### Component diagram example:
 
-![](Images/ProjectComponents.png)
+![](images/ProjectComponents.png)
 
 #### Next: [Features](features.md)
