@@ -1,4 +1,4 @@
-# **Covisint UI Framework**
+# **CUI Framework**
 
 This framework provides a UI developer a set of tooling, configuration and scaffolding necessary to create a custom UI for their project. The framework has the following features:
 

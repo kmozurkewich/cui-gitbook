@@ -18,7 +18,7 @@ platformApiBase:https://s-3rdwave-ui01.covapp.io/p/apiProxy
 ```
 
 
-### **Prerequisites**
+### **Software Requirements**
 
 Additionaly, the CUI Framework uses modern UI toolsets in order to manage dependencies, run tasks and scaffold your app.  You'll want to have the following tools availabe on your workstation before getting started.
 
@@ -40,29 +40,5 @@ Additionaly, the CUI Framework uses modern UI toolsets in order to manage depend
   * Install Grunt with NPM: `npm install -g grunt-cli`
   * You can verify Grunt is installed by running: `grunt --version`
 
-
-### **Start CUI-NG project using Yeoman**
-
-This section assumes you have all the prerequisites installed.
-
-* Install the yeoman generator
-
-  * `sudo npm install -g generator-cui-ng`
-
-* Create new CUI project directory
-
-  * Exit CUI-NG Yeoman project: `cd ../../`
-  * Create new project directory: `mkdir cui-ng-new-project`
-  * Change directory into your new project directory: `cd cui-ng-new-project`
-
-* Build your starting CUI project
-
-  * Use Yeoman to build your CUI starter project: `yo cui-ng`
-  * After you're done going through all the steps you should get a readme that explains how to use and customize the application
-
-
-## **Start CUI-Styleguide project using Yeoman**
-
-This section assumes you have all the prerequisites installed.
 
 

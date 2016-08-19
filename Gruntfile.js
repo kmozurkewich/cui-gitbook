@@ -14,7 +14,7 @@ module.exports = function(grunt) {
 	  
 	  gitbook: {
 		  html: {
-			  input: './',
+			  input: './docs/',
 			  output: '<%= globalConfig.buildDir %>'
 		  }
 

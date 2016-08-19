@@ -1,7 +1,8 @@
 {
+	"root":"docs",
 	"variables": {
-	    "title": "Covisint UI SDK",
-	    "abstract": "Covisint user interface development kit...",
+	    "title": "CUI Framework",
+	    "abstract": "Covisint user interface framework",
 	    "portal-page-url": "/learn/cui",
 	    "portal-display-priority": "900"
 	},
