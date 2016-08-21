@@ -1,7 +1,7 @@
 # CUI Styleguide
 Version 2.0
 
-[Github Project](https://github.com/covisint/cui-styleguide) |  [SASS Variables](https://github.com/covisint/cui-styleguide/tree/master/source/scss/base/README.md) | [Demo](http://cui.covisint.qa.thirdwavellc.com/cui-styleguide-0.0.1-SNAPSHOT/styleguide/index.html)
+[Repository & Readme](https://github.com/covisint/cui-styleguide) |  [SASS Variables](https://github.com/covisint/cui-styleguide/tree/master/source/scss/base/README.md) | [Demo](http://cui.covisint.qa.thirdwavellc.com/cui-styleguide-0.0.1-SNAPSHOT/styleguide/index.html)
 
 ## Description
 A Style source for all components used in the CUI framework. This styleguide utilizes KSS to generate documentation for designers, developers and others to use as a catalogue reference for the look and feel of CUI.
