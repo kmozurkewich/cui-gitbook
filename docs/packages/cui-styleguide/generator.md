@@ -1,5 +1,7 @@
 ## **Build a Custom cui-styleguide project using Yeoman**
 
+** This project is not currently maintained **
+
 This section assumes you have all the prerequisites installed.
 
 * Clone the [CUI-Styleguide Github Repository](https://github.com/thirdwavellc/cui-styleguide-yeoman)
