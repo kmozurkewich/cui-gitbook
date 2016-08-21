@@ -5,7 +5,7 @@ This framework provides a UI developer a set of tooling, configuration and scaff
 * Modern, Single Page App
 * Modular, Customizable Design
 * Responsive UI Components
-* Advanced Build Pipeline 
+* Advanced Build Pipeline
 * Comprehensive SASS Variables
 * Integrated with the Covisint Platform
 * Scaffolding and Builders
@@ -23,4 +23,13 @@ The framework consists of the following packages distributed through NPM. Each p
 * API Javascript Client [cui.js](https://cuijsinfo.run.covisintrnd.com/)
 * CUI i18n Library [cui-i18n]
 * CUI Icon Library [cui-icons]
+
+## Generator
+
+The CUI Framework has embraced the [Yeoman](http://yeoman.io/ scaffolding toolset in order to stand up new stand-alone projects.  We currently have a single full featured generator released.
+
+* CUI Angular Project Generator [generator-cui-ng](https://www.npmjs.com/package/generator-cui-ng)
+
+
+
 
