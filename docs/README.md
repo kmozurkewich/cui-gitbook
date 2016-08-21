@@ -16,7 +16,7 @@ This framework provides a UI developer a set of tooling, configuration and scaff
 
 ## Packages
 
-The framework consists of the following packages that each provide a meaningful seperation of concerns for the Framework as a whole as well as your development needs.  Each project can be taken as is or customized as necessary in its own regard.
+The framework consists of the following packages distributed through NPM. Each package provides a meaningful seperation of concerns for the Framework as a whole as well as your development needs.  Each project can be taken as is or customized as necessary in its own regard.
 
 * CUI Style Guide [cui-styleguide]
 * CUI Angular Component Library [cui-ng]
