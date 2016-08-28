@@ -6,7 +6,7 @@ At the outset of your working with the CUI Framework, we assume that you have an
 
 PLEASE NOTE:  This information is extreemly valuable and should only be shared through secure channels.  Either share with encrypted email, through an encrypted knowledge sharing tool or a secure third party tool such as [One Time Secret](https://onetimesecret.com)
 
-```ini
+```yaml
 realmCode:s-awesome-ui01
 uiHost:https://s-awesome-ui01.covapp.io
 originUri:s-awesome-ui01.covapp.io
