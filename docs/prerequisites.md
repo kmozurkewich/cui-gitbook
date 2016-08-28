@@ -6,15 +6,16 @@ At the outset of your working with the CUI Framework, we assume that you have an
 
 PLEASE NOTE:  This information is extreemly valuable and should only be shared through secure channels.  Either share with encrypted email, through an encrypted knowledge sharing tool or a secure third party tool such as [One Time Secret](https://onetimesecret.com)
 
+```
 realmCode:s-awesome-ui01
-uiHost:https:\/\/s-awesome-ui01.covapp.io
+uiHost:https://s-awesome-ui01.covapp.io
 originUri:s-awesome-ui01.covapp.io
 clientId:GobbleDg00kSetoFch4rs
 clientSecret:s$cr$tSetoFch4rs
 solutionInstanceId:ddab688e-0109-441c-8a20-878c3aa108fd
-
-apigeeHost:https:\/\/api.covapp.io
-platformApiBase:https:\/\/s-3rdwave-ui01.covapp.io\/p\/apiProxy
+apigeeHost:https://api.covapp.io
+platformApiBase:https://s-3rdwave-ui01.covapp.io/p/apiProxy
+```
 
 ### **Software Requirements**
 
