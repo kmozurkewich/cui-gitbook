@@ -6,8 +6,9 @@ At the outset of your working with the CUI Framework, we assume that you have an
 
 PLEASE NOTE:  This information is extreemly valuable and should only be shared through secure channels.  Either share with encrypted email, through an encrypted knowledge sharing tool or a secure third party tool such as [One Time Secret](https://onetimesecret.com)
 
-```yaml
-%YAML 1.2---
+```
+%YAML 1.2
+---
 realmCode: s-awesome-ui01
 uiHost: "https://s-awesome-ui01.covapp.io"
 originUri: s-awesome-ui01.covapp.io
@@ -25,7 +26,8 @@ Additionaly, the CUI Framework uses modern UI toolsets in order to manage depend
 **Node & NPM**
 
 * Install [Node](https://nodejs.org/en/)
-* Update npm \(`sudo npm install -g npm`, `npm --v` must return version 3 or greater\)
+* Update npm `sudo npm install -g npm`, 
+* `npm --v` must return version 3 or greater
 
 **Yeoman**
 
