@@ -12,7 +12,7 @@ This framework provides a UI developer a set of tooling, configuration and scaff
 
 ## Solution Accelerator
 
-* CUI IDM B2X Solution Accelerator [cui-idm-b2x](accelerators/cui-idm-b2x.md)
+* CUI IDM B2X Solution Accelerator [cui-idm-b2x](accelerators/cui-idm-b2x/overview.md)
 
 ## Packages
 

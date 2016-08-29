@@ -1,22 +1,16 @@
 # Summary
 
 * [Introduction](README.md)
-
   * [Background](background.md)
   * [Prerequisites](prerequisites.md)
   * [What's New?](whats_new.md)
-
-* [Accelerators](accelerators/cui-idm-b2x.md)
-
+* [Accelerators](accelerators/cui-idm-b2x/overview.md)
 * [Packages](packages/overview.md)
-
   * [cui-styleguide](packages/cui-styleguide/overview.md)
   * [cui-i18n](packages/cui-i18n/overview.md)
   * [cui-icons](packages/cui-icons/overview.md)
   * [cui-ng](packages/cui-ng/overview.md)
-
     * [Directives](packages/cui-ng/directives/directives.md)
-
       * [auto-complete](packages/cui-ng/directives/auto-complete.md)
       * [class-toggle](packages/cui-ng/directives/class-toggle.md)
       * [cui-avatar](packages/cui-ng/directives/cui-avatar.md)
@@ -34,21 +28,11 @@
       * [tags-input](packages/cui-ng/directives/tags-input.md)
       * [tether](packages/cui-ng/directives/tether.md)
       * [ui-sref-active-nested](packages/cui-ng/directives/ui-sref-active-nested.md)
-
     * [Filters](packages/cui-ng/filters/filters.md)
-
       * [cuiI18n](packages/cui-ng/filters/cuiI18n.md)
-
     * [Providers](packages/cui-ng/providers/providers.md)
-
       * [$CuiI18n](packages/cui-ng/providers/$CuiI18n.md)
-
     * [Utilities](packages/cui-ng/utilities/utilities.md)
-
       * [cui-authorization](packages/cui-ng/utilities/cui-authorization.md)
-
-
-
-
-* [cui-messaging](packages/cui-messaging/overview.md)
+  * [cui-messaging](packages/cui-messaging/overview.md)
 
