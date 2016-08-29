@@ -6,7 +6,7 @@
   * [Prerequisites](prerequisites.md)
   * [What's New?](whats_new.md)
 
-* [Accelerators](accelerators/cui-idm-b2x.md)
+* [Accelerators](accelerators/cui-idm-b2x/overview.md)
 
 * [Packages](packages/overview.md)
 
