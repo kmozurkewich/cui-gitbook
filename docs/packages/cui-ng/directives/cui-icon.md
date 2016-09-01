@@ -1,6 +1,8 @@
 # cui-icon
 Version 1.0
 
+
+
 ### Description
 The cui-icon directive and $cuiIcon provider work together to facilitate the inclusion of svg sprites.
 
