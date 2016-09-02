@@ -23,10 +23,8 @@ Provided by the good folks at AirBnB this JavaScript Styelguide is a mostly reas
 [BEM CSS Naming Conventions](http://getbem.com/naming/)
 BEM – Block Element Modifier is a methodology, that helps you to achieve reusable components and code sharing in the front-end.
 
-
-## Changelogs
-
-Ref: Keep a changelog
+[Keep a changelog](http://keepachangelog.com/)
+CHANGELOG.md should be used in each project to track a human readable, friendly, summarized list of modifications per release version.  These CHANGELOGs can then be utilized downstream by other documentation subscribers and other developers.  Its just a good idea, and beside, your project managers will probably ask for summaries of your releases anyway so why not document them in this fashion consistently with convention.
 
 
 ## Repository Management
