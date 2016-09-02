@@ -14,13 +14,20 @@ Ref: Symantic Versioning
 
 ## Coding Style
 
-Ref:  AirBnB JS Styleguide
+[Angular Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
+The John Pappa Angular Styleguide is a starting point for Angular development teams to provide consistency through good practices.
 
-Ref: BEM naming conventions
+[JavaScript Styleguide](https://github.com/airbnb/javascript)
+Provided by the good folks at AirBnB this JavaScript Styelguide is a mostly reasonable approach to JavaScript providing fundamental best practices when writing great code.
+
+[BEM CSS Naming Conventions](http://getbem.com/naming/)
+BEM – Block Element Modifier is a methodology, that helps you to achieve reusable components and code sharing in the front-end.
+
 
 ## Changelogs
 
 Ref: Keep a changelog
+
 
 ## Repository Management
 
