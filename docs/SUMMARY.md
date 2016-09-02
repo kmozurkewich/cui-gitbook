@@ -11,7 +11,7 @@
     * [cui-i18n](packages/cui-i18n/overview.md)
     * [cui-icons](packages/cui-icons/overview.md)
     * [cui-ng](packages/cui-ng/overview.md)
-        * [Directives](packages/cui-ng/directives/directives.md)
+        * [Directives](packages/cui-ng/directives/overview.md)
             * [auto-complete](packages/cui-ng/directives/auto-complete.md)
             * [class-toggle](packages/cui-ng/directives/class-toggle.md)
             * [cui-avatar](packages/cui-ng/directives/cui-avatar.md)
