@@ -8,6 +8,10 @@ The common project naming convention as been to suggest `cui-{type}-{clientAcron
 
 By using this convention, you'll know right away that the project is a CUI framework project, it is an idm based solution and for the ACME client.
 
+## Project Versioning
+
+Ref: Symantic Versioning
+
 ## Coding Style
 
 Ref:  AirBnB JS Styleguide
