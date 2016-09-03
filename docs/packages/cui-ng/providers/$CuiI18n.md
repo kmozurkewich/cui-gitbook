@@ -1,1 +1,1 @@
-{% include "git+https://github.com/covisint/cui-ng.git/providers/%24cuiI18n/README.md" %}
+{% include "git+https://github.com/covisint/cui-ng.git/providers/$cuiI18n/README.md" %}
