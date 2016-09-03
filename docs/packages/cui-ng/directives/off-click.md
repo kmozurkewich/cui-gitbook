@@ -1,3 +1,6 @@
+{% include "git+https://github.com/covisint/cui-ng.git/directives/off-click/README.md" %}
+
+
 # off-click
 Version 1.0
 
