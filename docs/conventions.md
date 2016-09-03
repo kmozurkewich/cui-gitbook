@@ -15,15 +15,19 @@ Ref: Symantic Versioning
 ## Coding Style
 
 [Angular Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
+
 The John Pappa Angular Styleguide is a starting point for Angular development teams to provide consistency through good practices.
 
 [JavaScript Styleguide](https://github.com/airbnb/javascript)
+
 Provided by the good folks at AirBnB this JavaScript Styelguide is a mostly reasonable approach to JavaScript providing fundamental best practices when writing great code.
 
 [BEM CSS Naming Conventions](http://getbem.com/naming/)
+
 BEM – Block Element Modifier is a methodology, that helps you to achieve reusable components and code sharing in the front-end.
 
 [Keep a changelog](http://keepachangelog.com/)
+
 CHANGELOG.md should be used in each project to track a human readable, friendly, summarized list of modifications per release version.  These CHANGELOGs can then be utilized downstream by other documentation subscribers and other developers.  Its just a good idea, and beside, your project managers will probably ask for summaries of your releases anyway so why not document them in this fashion consistently with convention.
 
 
