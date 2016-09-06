@@ -5,17 +5,8 @@ In order to know what is the latest and greatest each project repository will ma
 
 ## Changelogs
 
-### IDM B2X Accelerator
-{link}
-
-### CUI Angular Library
-{link}
-
-### CUI Style Guide
-{link}
-
-### CUI i18n Library
-{link}
-
-### CUI Icon Library
-{link}
+  * [IDM B2X Accelerator](accelerators/cui-idm-b2x/changelog.md)
+  * [CUI Angular Library](packages/cui-ng/changelog.md)
+  * [CUI Style Guide](packages/cui-styleguide/changelog.md)
+  * [CUI i18n Library](packages/cui-i18n/changelog.md)
+  * [CUI Icon Library](packages/cui-icons/changelog.md)
