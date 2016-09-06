@@ -8,10 +8,6 @@ The common project naming convention as been to suggest `cui-{type}-{clientAcron
 
 By using this convention, you'll know right away that the project is a CUI framework project, it is an idm based solution and for the ACME client.
 
-## Project Versioning
-
-Ref: Symantic Versioning
-
 ## Coding Style
 
 [Angular Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
@@ -29,6 +25,13 @@ BEM – Block Element Modifier is a methodology, that helps you to achieve reusa
 [Keep a changelog](http://keepachangelog.com/)
 
 CHANGELOG.md should be used in each project to track a human readable, friendly, summarized list of modifications per release version.  These CHANGELOGs can then be utilized downstream by other documentation subscribers and other developers.  Its just a good idea, and beside, your project managers will probably ask for summaries of your releases anyway so why not document them in this fashion consistently with convention.
+
+
+## Versioning
+
+[Semantic Versioning](http://semver.org/)
+
+Under the semantic versioning scheme, version numbers and the way they change convey meaning about the underlying code and what has been modified from one version to the next.
 
 
 ## Repository Management
