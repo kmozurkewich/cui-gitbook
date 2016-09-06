@@ -5,7 +5,7 @@ In order to know what is the latest and greatest each project repository will ma
 
 ## Changelogs
 
-### B2X Solution Accelerator
+### IDM B2X Accelerator
 {link}
 
 ### CUI Angular Library
