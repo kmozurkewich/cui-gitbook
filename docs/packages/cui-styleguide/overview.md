@@ -10,7 +10,7 @@ A Style source for all components used in the CUI framework. This styleguide uti
 
 ## Customization
 
-Rather than forking this styleguide and modifying to your needs, you can customize existing component properties through variables available in [source\/scss\/base\/\_vars.scss](https://github.com/covisint/cui-styleguide/tree/master/source/scss/base/_vars.scss). A visual explanation for different variable names can be found at [source\/scss\/base\/README.md](https://github.com/covisint/cui-styleguide/tree/master/source/scss/base/README.md).
+Rather than forking this styleguide and modifying to your needs, you can customize existing component properties through variables available in [source\/scss\/base\/\_vars.scss](https://github.com/covisint/cui-styleguide/tree/master/source/scss/base/_vars.scss). A visual explanation for different variable names can be found in the [variables](variables.md) section as well.
 
 In order to alter these variables in your project, please refer to the [Quick Start](https://github.com/Covisint/cui-styleguide#-quick-start-) section in the cui-styleguide repo's README.md.
 
