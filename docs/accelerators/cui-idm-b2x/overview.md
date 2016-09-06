@@ -1,12 +1,10 @@
-# B2X - Business To Anything
+# IDM B2X Accelerator
+
+[Repository](https://github.com/covisint/cui-idm-b2x)
 
 ## Overview
 
-**Definition**: B2X mode provides the most flexible set of tools. It lets your buiness to connect to just about any entity internally and externally. B2X mode gives developer all the tools and modules to so developers can customize it to tailor their exact needs.
-
-## **Application**
-
-The B2X Reference Implementation
+The IDM B2X Accelerator provides a flexible set of features prebuilt and connected to the Covisint IDM platform. It lets your buiness to connect to just about any entity internally and externally. B2X mode gives developer all the tools and modules to so developers can customize it to tailor their exact needs.
 
 By following the guide below, you will be set up with a Reference B2X implementation.  It is called B2X because it is meant to work from a business to just about any other entity. An enterprise can use B2X to allow other internal and external entities to interact it's realm of organizations, applications via APIs.
 
@@ -16,14 +14,10 @@ By following the guide below, you will be set up with a Reference B2X implementa
   - Application Directory
   - Application Request / Approval Workflow
 
-## Public Repository
 
-[cui-idm-b2x](https://github.com/Covisint/cui-idm-b2x)
+### Getting Started
 
-
-### **Start Your IDM B2X project using Yeoman**
-
-This section assumes you have all the [prerequisites](../prerequisites.md) installed.
+Start your local IDM B2X project using Yeoman.  This section assumes you have all the [prerequisites](../prerequisites.md) installed.
 
 * Install the yeoman generator
 
