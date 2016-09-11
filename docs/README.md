@@ -9,10 +9,15 @@ This framework provides a UI developer a set of tooling, configuration and scaff
 * Comprehensive SASS Variables
 * Integrated with the Covisint Platform
 * Scaffolding and Builders
+* Resilient, scalable hosting architecture
 
 ## Solution Accelerators
 
 * CUI IDM B2X Solution Accelerator [cui-idm-b2x](accelerators/cui-idm-b2x/overview.md)
+
+## Services
+
+* CUI IDM App Hosting [cui-idm-hosting](services/cui-idm-hosting/overview.md)
 
 ## Generators
 
