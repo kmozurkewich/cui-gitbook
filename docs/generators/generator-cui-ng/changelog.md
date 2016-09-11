@@ -1,0 +1,1 @@
+{% include "git+https://github.com/thirdwavellc/generator-cui-ng.git/CHANGELOG.md" %}
