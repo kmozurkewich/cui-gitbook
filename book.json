@@ -7,7 +7,9 @@
 		"portal-page-url": "/learn/cui",
 		"portal-display-priority": "900"
 	},
-	"plugins": ["-sharing","include","collapsible-menu","edit-link","bootstrap-callout","prism","-highlight"],
+	"plugins": ["-sharing",
+		"include","collapsible-menu","edit-link","bootstrap-callout",
+		"prism","-highlight","mermaid-compat@0.2.0-beta1"],
 	"pluginsConfig": {
 		"edit-link": {
 			"base": "https://github.com/covisint/cui-gitbook/edit/master/docs",
