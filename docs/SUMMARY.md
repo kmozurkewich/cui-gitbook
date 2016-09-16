@@ -10,6 +10,7 @@
         * [Change Log](accelerators/cui-idm-b2x/changelog.md)
 * [Services](services/cui-idm-hosting/overview.md)
     * [CUI IDM App Hosting](services/cui-idm-hosting/overview.md)
+        * [Setup](services/cui-idm-hosting/setup.md)
 * [Generators](generators/generator-cui-ng/overview.md)
     * [CUI NG Generator](generators/generator-cui-ng/overview.md)
         * [Change Log](generators/generator-cui-ng/changelog.md)

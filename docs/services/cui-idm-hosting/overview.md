@@ -9,6 +9,11 @@ A highly availabile application hosting service specifically tuned and configure
 - SSL Certificate enabled.
 - The Hosting service offers a set of APIs of its own that can be used to configure features of itself.  For example, custom proxy paths can be configured to route http requests to remote hosts via a local path.
 
+## Setup
+You will need to work closely with the platform team in order to have your CUI IDM App Hosting environment configured.  Please review the setup steps to have an overview of the main items necessary to have completed and tested.
+
+[App Hosting Setup](setup.md)
+
 ## Defaults
 
 ### uiHost
