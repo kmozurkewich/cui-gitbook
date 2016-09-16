@@ -7,6 +7,8 @@
     * [What's New?](whats_new.md)
 * [Accelerators](accelerators/cui-idm-b2x/overview.md)
     * [IDM B2X Accelerator](accelerators/cui-idm-b2x/overview.md)
+        * [Features](accelerators/cui-idm-b2x/features/overview.md)
+            * [Dynamic Menu](accelerators/cui-idm-b2x/features/menu.md)
         * [Change Log](accelerators/cui-idm-b2x/changelog.md)
 * [Services](services/cui-idm-hosting/overview.md)
     * [CUI IDM App Hosting](services/cui-idm-hosting/overview.md)
