@@ -23,20 +23,24 @@ platformApiBase: "https://s-3rdwave-ui01.covapp.io/p/apiProxy"
 
 Additionaly, the CUI Framework uses modern UI toolsets in order to manage dependencies, run tasks and scaffold your app.  You'll want to have the following tools availabe on your workstation before getting started.
 
-**Node & NPM**
+#### Node & NPM**
 
 * Install [Node](https://nodejs.org/en/)
-* Update npm `sudo npm install -g npm`, 
+* Update npm `sudo npm install -g npm`,
 * `npm --v` must return version 3 or greater
 
-**Yeoman**
+#### NVM
+* Also, we use NVM (Node Version Manager) to support multiple versions of node required on various projects. [Learn more about NVM](https://github.com/creationix/nvm/blob/master/README.markdown)
+
+
+#### Yeoman
 
 * Install [Yeoman](http://yeoman.io/)
   * Install Yeoman with NPM: `npm install -g yo`
   * You can verify Yeoman is installed by running: `yo --version`
 
 
-**Grunt**
+#### Grunt
 
 * Install [Grunt](http://gruntjs.com/)
   * Install Grunt with NPM: `npm install -g grunt-cli`
