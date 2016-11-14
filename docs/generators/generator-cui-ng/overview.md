@@ -1,1 +1,1 @@
-{% include "git+https://github.com/thirdwavellc/generator-cui-ng.git/README.md" %}
+{% include "git+https://github.com/Covisint/generator-cui-ng.git/README.md" %}
