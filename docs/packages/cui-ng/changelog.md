@@ -1,0 +1,1 @@
+{% include "git+https://github.com/covisint/cui-ng.git/CHANGELOG.md" %}

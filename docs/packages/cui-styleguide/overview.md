@@ -6,7 +6,7 @@ Version 2.5.0
 
 ## Description
 
-A Style source for all components used in the CUI framework. This styleguide utilizes KSS to generate documentation for designers, developers and others to use as a catalogue reference for the look and feel of CUI.
+A Style source for all components used in the CUI framework. This styleguide utilizes KSS [kss-node specifically](https://github.com/kss-node/kss-node) to generate documentation for designers, developers and others to use as a catalogue reference for the look and feel of CUI.
 
 ## Customization
 
