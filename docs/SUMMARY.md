@@ -51,5 +51,6 @@
             * [$CuiI18n](packages/cui-ng/providers/$CuiI18n.md)
         * [Utilities](packages/cui-ng/utilities/utilities.md)
             * [cui-authorization](packages/cui-ng/utilities/cui-authorization.md)
+    * [CUI API Interceptor](packages/cui-api-interceptor/overview.md)
     * [CUI Messaging](packages/cui-messaging/overview.md)
 

@@ -27,13 +27,17 @@ The CUI Framework has embraced the [Yeoman](http://yeoman.io/) scaffolding tools
 
 ## Packages
 
-The framework consists of the following packages distributed through NPM. Each package provides a meaningful seperation of concerns for the Framework as a whole as well as your development needs.  Each project can be taken as is or customized as necessary in its own regard.
+The framework heavily utilizes the following **cui** packages distributed through NPM. Each package provides a meaningful seperation of concerns for the framework as a whole as well as your development needs.  Each project can be taken as is or customized as necessary in its own regard.
 
 * Javascript Client [cui.js](https://cuijsinfo.run.covisintrnd.com/)
 * CUI Style Guide [cui-styleguide](packages/cui-styleguide/overview.md)
 * CUI Angular Component Library [cui-ng](packages/cui-ng/overview.md)
 * CUI i18n Library [cui-i18n](packages/cui-i18n/overview.md)
 * CUI Icon Library [cui-icons](packages/cui-icons/overview.md)
+
+* CUI API Interceptor [cui-api-interceptor](packages/cui-api-interceptor/overview.md)
+
+
 
 
 
