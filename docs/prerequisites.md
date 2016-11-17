@@ -6,9 +6,9 @@ At the outset of your work with the CUI Framework, we assume that you have an in
 
 The example template below is used as your *Target Environment Profile* and is necessary in order to run your IDM application. When you first run your application locally, you will be prompted to enter these values into the profile location in your workstation users' home directory.
 
-We use your *HOME* environment variable to create the directories that house the project environment profile. The *HOME* environment variable is by default created on Linux and OSX operating systems. For Windows users, you will have to create this environment variable if you don't have it setup already.
+We use your *HOME* environment variable to create the directories that house the project environment profile. The *HOME* environment variable is by default created on Linux and OSX operating systems. For Windows users, you will have to create this environment variable if you don't have it setup already. The *HOME* environment variable should resemble `C:\Users\username\`
 
-PLEASE NOTE:  This information is extreemly valuable and should only be shared through secure channels.  Either share with encrypted email, through an encrypted knowledge sharing tool or a secure third party tool such as [One Time Secret](https://onetimesecret.com)
+PLEASE NOTE:  This information is extremely valuable and should only be shared through secure channels.  Either share with encrypted email, through an encrypted knowledge sharing tool or a secure third party tool such as [One Time Secret](https://onetimesecret.com)
 
 ```
 %YAML 1.2
