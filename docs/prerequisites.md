@@ -1,8 +1,10 @@
 ## **Getting Started**
 
-### **Important Values**
+### Target Environment Profile
 
-At the outset of your working with the CUI Framework, we assume that you have an instance that has been provisioned to your team.  As a developer, you will also want to ensure that you have the following set of 'secret' information handy.  The example template below can also be used as environment variables in a Postman client as well to make testing calls directly to the APIs a bit easier.
+At the outset of your working with the CUI Framework, we assume that you have an instance that has been provisioned to your team.  As a developer, you will also want to ensure that you have the following set of 'secret' information handy.
+
+The example template below is used as you *Target Environment Profile* and is necessary in order to run your IDM application.  When you first run your application locally, you will be prompted to enter these values into the profile location in your workstation users' home directory.
 
 PLEASE NOTE:  This information is extreemly valuable and should only be shared through secure channels.  Either share with encrypted email, through an encrypted knowledge sharing tool or a secure third party tool such as [One Time Secret](https://onetimesecret.com)
 
@@ -18,6 +20,8 @@ solutionInstanceId: ddab688e-0109-441c-8a20-878c3aa108fd
 apigeeHost: "https://api.covapp.io"
 platformApiBase: "https://s-3rdwave-ui01.covapp.io/p/apiProxy"
 ```
+
+As an additional side note, the variables and variable names above are a good template to use as environment variables in a Postman client to make testing calls directly to the APIs easier.
 
 ### **Software Requirements**
 
