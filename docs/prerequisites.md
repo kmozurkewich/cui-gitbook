@@ -10,6 +10,7 @@ We use your *HOME* environment variable to create the directories that house the
 
 PLEASE NOTE:  This information is extremely valuable and should only be shared through secure channels.  Either share with encrypted email, through an encrypted knowledge sharing tool or a secure third party tool such as [One Time Secret](https://onetimesecret.com)
 
+(is this YAML current??)
 ```
 %YAML 1.2
 ---
