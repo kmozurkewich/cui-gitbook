@@ -33,6 +33,7 @@ Additionaly, the CUI Framework uses modern UI toolsets in order to manage depend
 
 * Install [Node](https://nodejs.org/en/)
 * Update npm `sudo npm install -g npm`,
+* `node --v` must return version 4 or greater
 * `npm --v` must return version 3 or greater
 
 #### NVM
